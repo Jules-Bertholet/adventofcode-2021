@@ -3,10 +3,6 @@
 version = 3
 
 [[package]]
-name = "adventofcode-2021"
-version = "0.1.0"
-
-[[package]]
 name = "day-01"
 version = "0.1.0"
 
@@ -24,4 +20,8 @@ version = "0.1.0"
 
 [[package]]
 name = "day-05"
+version = "0.1.0"
+
+[[package]]
+name = "day-06"
 version = "0.1.0"
